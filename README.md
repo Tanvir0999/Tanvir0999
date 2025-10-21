@@ -1,4 +1,4 @@
-- A self-taught front/backend developer 🇧🇩
+- A self-taught front/backend developer
 
 **About me**
 - Tanvir Rayhan
