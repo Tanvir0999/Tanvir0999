@@ -2,7 +2,7 @@
 
 **About me**
 - Tanvir Rayhan
-- Age: 19
+- Age: 20
 - Skills: noob
 - Don't Ask me about anything [HERE](https://facebook.com/tanvir.dxd)
 
@@ -14,5 +14,5 @@
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-| <a href="https://github.com/Tanvir0999/"><img align="center" src="https://tanvir.is-a-cool.dev/readme?username=Tanvir0999&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Tanvir's github stats" /></a> | <a href="https://github.com/Tanvir0999/"><img align="center" src="https://tanvir.is-a-cool.dev/readme/top-langs/?username=Tanvir0999&layout=compact&hide_border=true&theme=dark" /></a> |
+<!-- | <a href="https://github.com/Tanvir0999/"><img align="center" src="https://tanvir.is-a-cool.dev/readme?username=Tanvir0999&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Tanvir's github stats" /></a> | <a href="https://github.com/Tanvir0999/"><img align="center" src="https://tanvir.is-a-cool.dev/readme/top-langs/?username=Tanvir0999&layout=compact&hide_border=true&theme=dark" /></a> | -->
 | ------------- | ------------- |
