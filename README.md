@@ -1,4 +1,4 @@
-- A self-taught front/backend developer
+- A self-taught multi stack developer
 
 **About me**
 - Tanvir Rayhan
